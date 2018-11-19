@@ -12,7 +12,7 @@ This repository contains the developed software related to a research of wave tr
 
 The results of this study show that the dissipation term linked to surf-breaking is the main sink of the wave energy during the wave transmission over subemrged dams. Furthermore, if the restrictions on the emprical formula are not taken into account, the differences between both models are larger (outliers) w.r.t. the case in which the restrictions are taken into account. And hence the danger of extrapolation of the empirical formula has thus been demonstrated. 
 
-<p float="left">
+<p float="center">
 <img src="Images/4_1DConceptmodel_surf.png" width="400"/>
 <img src="Images/Triad&Sourcing_NoRestrictions_Grid_vs_Lijn2.png" width="400"/>
 </p>
