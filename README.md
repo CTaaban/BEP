@@ -6,7 +6,7 @@
 <img src="Images/Golven.png" width="1000" height="150"/>
 </p>
 
-This repository contains the developed software related to a research of wave transmission over submerged dams. In order to get more insight of the physics of wave transmission over submerged dams, the transmission of waves have been modelled in SWAN ("Grid-model") and have been compared w.r.t. an empirical relationship (d'Angremond, 1996) of wave transmission ("Lijn-model").
+This repository contains the developed software related to a research of wave transmission over submerged dams. In order to get more insight into the physics of wave transmission over submerged dams, the transmission of waves have been modelled in SWAN ("Grid-model") and have been compared w.r.t. an empirical relationship (d'Angremond, 1996) of wave transmission ("Lijn-model").
 
 <p align="center">
 <img src="Images/4_damModellen.png" width="800"/>
